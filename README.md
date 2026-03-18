@@ -17,12 +17,7 @@ Colors genes based on their functional category;
 
 # Input File Requirements (IMPORTANT!!)
 
-The script requires a CSV file named 'spreadsheet.csv'. Your table must follow this exact structure:
-colA  colB      colC      colD
-Gene	Isolate_1	Isolate_2	Isolate_3	...
-cbpA	1	0	1	...
-spaA	1	1	1	...
-tox	0	0	1	...
+The script requires a CSV file named 'spreadsheet.csv'. Your table must follow the exact structure of the example table attached. 
 
 📁 Key formatting rules:
 Rows = Genes
